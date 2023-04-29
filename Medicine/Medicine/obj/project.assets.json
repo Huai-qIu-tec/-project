@@ -1,0 +1,184 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "SunnyUI/3.1.8": {
+        "type": "package",
+        "dependencies": {
+          "SunnyUI.Common": "3.1.2"
+        },
+        "compile": {
+          "lib/net5.0-windows7.0/SunnyUI.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/SunnyUI.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "SunnyUI.Common/3.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/SunnyUI.Common.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/SunnyUI.Common.dll": {}
+        }
+      },
+      "SvgNet/2.2.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0-windows7.0/SVG.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/SVG.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "SunnyUI/3.1.8": {
+      "sha512": "ZbpDokQq154NQvTj3GLBuFmkWYeHPToKVuDzPTC09Imjdj/F+ztmJP4DhoDr13IRwMYlafoFesZUYB1EZAtR4Q==",
+      "type": "package",
+      "path": "sunnyui/3.1.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "SunnyUI.png",
+        "lib/net40/SunnyUI.dll",
+        "lib/net472/SunnyUI.dll",
+        "lib/net5.0-windows7.0/SunnyUI.dll",
+        "lib/net6.0-windows7.0/SunnyUI.dll",
+        "sunnyui.3.1.8.nupkg.sha512",
+        "sunnyui.nuspec"
+      ]
+    },
+    "SunnyUI.Common/3.1.2": {
+      "sha512": "+LnDUVRdSPgtVfsQEMCCCK1u/rQ3S0eRHgYGcb9qo+RBkx3xB8XvPJwSeHEZcAA1QGOkIM2tzVfW1HobVsLBpQ==",
+      "type": "package",
+      "path": "sunnyui.common/3.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "SunnyUI.png",
+        "lib/net40/SunnyUI.Common.dll",
+        "lib/net472/SunnyUI.Common.dll",
+        "lib/net5.0/SunnyUI.Common.dll",
+        "lib/net6.0/SunnyUI.Common.dll",
+        "lib/netcoreapp3.1/SunnyUI.Common.dll",
+        "lib/netstandard2.0/SunnyUI.Common.dll",
+        "lib/netstandard2.1/SunnyUI.Common.dll",
+        "sunnyui.common.3.1.2.nupkg.sha512",
+        "sunnyui.common.nuspec"
+      ]
+    },
+    "SvgNet/2.2.2": {
+      "sha512": "othipfYl//V7zW0+2XVMy1v7jcBVjqbhHatS3UsTSG/HFceReRzfc9vlNKyem6g7gNY6swk9/r14LxgZqnklTw==",
+      "type": "package",
+      "path": "svgnet/2.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "lib/net461/SVG.dll",
+        "lib/net461/svgnetdoc.xml",
+        "lib/net5.0-windows7.0/SVG.dll",
+        "lib/net5.0-windows7.0/svgnetdoc.xml",
+        "lib/net5.0/SVG.dll",
+        "lib/net5.0/svgnetdoc.xml",
+        "lib/net6.0-windows7.0/SVG.dll",
+        "lib/net6.0-windows7.0/svgnetdoc.xml",
+        "lib/net6.0/SVG.dll",
+        "lib/net6.0/svgnetdoc.xml",
+        "lib/netstandard2.0/SVG.dll",
+        "lib/netstandard2.0/svgnetdoc.xml",
+        "lib/netstandard2.1/SVG.dll",
+        "lib/netstandard2.1/svgnetdoc.xml",
+        "svgnet.2.2.2.nupkg.sha512",
+        "svgnet.nuspec",
+        "svgnet.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "SunnyUI >= 3.1.8",
+      "SvgNet >= 2.2.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\78620\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\学习\\医院信息系统\\084519123 张帅 医院信息系统课程设计\\系统实现C#源代码\\Medicine\\Medicine\\Medicine.csproj",
+      "projectName": "Medicine",
+      "projectPath": "D:\\学习\\医院信息系统\\084519123 张帅 医院信息系统课程设计\\系统实现C#源代码\\Medicine\\Medicine\\Medicine.csproj",
+      "packagesPath": "C:\\Users\\78620\\.nuget\\packages\\",
+      "outputPath": "D:\\学习\\医院信息系统\\084519123 张帅 医院信息系统课程设计\\系统实现C#源代码\\Medicine\\Medicine\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\78620\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "dependencies": {
+          "SunnyUI": {
+            "target": "Package",
+            "version": "[3.1.8, )"
+          },
+          "SvgNet": {
+            "target": "Package",
+            "version": "[2.2.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

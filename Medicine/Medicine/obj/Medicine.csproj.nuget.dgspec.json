@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\学习\\医院信息系统\\084519123 张帅 医院信息系统课程设计\\系统实现C#源代码\\Medicine\\Medicine\\Medicine.csproj": {}
+  },
+  "projects": {
+    "D:\\学习\\医院信息系统\\084519123 张帅 医院信息系统课程设计\\系统实现C#源代码\\Medicine\\Medicine\\Medicine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\学习\\医院信息系统\\084519123 张帅 医院信息系统课程设计\\系统实现C#源代码\\Medicine\\Medicine\\Medicine.csproj",
+        "projectName": "Medicine",
+        "projectPath": "D:\\学习\\医院信息系统\\084519123 张帅 医院信息系统课程设计\\系统实现C#源代码\\Medicine\\Medicine\\Medicine.csproj",
+        "packagesPath": "C:\\Users\\78620\\.nuget\\packages\\",
+        "outputPath": "D:\\学习\\医院信息系统\\084519123 张帅 医院信息系统课程设计\\系统实现C#源代码\\Medicine\\Medicine\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\78620\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "SunnyUI": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "SvgNet": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LPN4UmAn5+tYREbTSUuVCTImzZ632voycEeEre5NIdj+bxSyXRakLRs9jMEz0B8jZHyBxaDH3Yc4PInifUAoGw==",
+  "success": true,
+  "projectFilePath": "D:\\学习\\医院信息系统\\084519123 张帅 医院信息系统课程设计\\系统实现C#源代码\\Medicine\\Medicine\\Medicine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\78620\\.nuget\\packages\\sunnyui\\3.1.8\\sunnyui.3.1.8.nupkg.sha512",
+    "C:\\Users\\78620\\.nuget\\packages\\sunnyui.common\\3.1.2\\sunnyui.common.3.1.2.nupkg.sha512",
+    "C:\\Users\\78620\\.nuget\\packages\\svgnet\\2.2.2\\svgnet.2.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

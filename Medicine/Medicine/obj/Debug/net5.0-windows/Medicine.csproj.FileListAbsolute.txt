@@ -1,0 +1,94 @@
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.csproj.AssemblyReference.cache
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.csproj.GenerateResource.cache
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.GeneratedMSBuildEditorConfig.editorconfig
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.AssemblyInfoInputs.cache
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.AssemblyInfo.cs
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.csproj.CoreCompileInputs.cache
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\bin\Debug\net5.0-windows\Medicine.exe
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\bin\Debug\net5.0-windows\Medicine.deps.json
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\bin\Debug\net5.0-windows\Medicine.runtimeconfig.json
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\bin\Debug\net5.0-windows\Medicine.runtimeconfig.dev.json
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\bin\Debug\net5.0-windows\Medicine.dll
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\bin\Debug\net5.0-windows\ref\Medicine.dll
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\bin\Debug\net5.0-windows\Medicine.pdb
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\bin\Debug\net5.0-windows\MySql.Data.dll
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\bin\Debug\net5.0-windows\Google.Protobuf.dll
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\bin\Debug\net5.0-windows\ZstdNet.dll
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\bin\Debug\net5.0-windows\MySql.Data.xml
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.csproj.CopyComplete
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.dll
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\ref\Medicine.dll
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.pdb
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.genruntimeconfig.cache
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.Login.resources
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.Properties.Resources.resources
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.Register.resources
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.completeInfomation.resources
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.mainForm.resources
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\bin\Debug\net5.0-windows\SVG.dll
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.guahao.resources
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\bin\Debug\net5.0-windows\SunnyUI.dll
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\bin\Debug\net5.0-windows\SunnyUI.Common.dll
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.DeptDoctorList.resources
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.DoctorInfo.resources
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.guahaoInfo.resources
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.就诊人信息.resources
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.Congrations.resources
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.MySchdule.resources
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.jianchainfo.resources
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.tijianinfo.resources
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.ExamiationCheck.resources
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.information.resources
+D:\学习\医院信息系统\课程设计\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.myhome.resources
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\bin\Debug\net5.0-windows\Medicine.exe
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\bin\Debug\net5.0-windows\Medicine.deps.json
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\bin\Debug\net5.0-windows\Medicine.runtimeconfig.json
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\bin\Debug\net5.0-windows\Medicine.runtimeconfig.dev.json
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\bin\Debug\net5.0-windows\Medicine.dll
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\bin\Debug\net5.0-windows\ref\Medicine.dll
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\bin\Debug\net5.0-windows\Medicine.pdb
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\bin\Debug\net5.0-windows\SunnyUI.dll
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\bin\Debug\net5.0-windows\SunnyUI.Common.dll
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\bin\Debug\net5.0-windows\SVG.dll
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\bin\Debug\net5.0-windows\MySql.Data.dll
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\bin\Debug\net5.0-windows\Google.Protobuf.dll
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\bin\Debug\net5.0-windows\ZstdNet.dll
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\bin\Debug\net5.0-windows\MySql.Data.xml
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.csproj.AssemblyReference.cache
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.completeInfomation.resources
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.Congrations.resources
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.DeptDoctorList.resources
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.DoctorInfo.resources
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.ExamiationCheck.resources
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.guahao.resources
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.guahaoInfo.resources
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.information.resources
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.jianchainfo.resources
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.Login.resources
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.mainForm.resources
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.myhome.resources
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.MySchdule.resources
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.Properties.Resources.resources
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.Register.resources
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.tijianinfo.resources
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.就诊人信息.resources
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.csproj.GenerateResource.cache
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.GeneratedMSBuildEditorConfig.editorconfig
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.AssemblyInfoInputs.cache
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.AssemblyInfo.cs
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.csproj.CoreCompileInputs.cache
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.csproj.CopyComplete
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.dll
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\ref\Medicine.dll
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.pdb
+D:\学习\医院信息系统\084519123 张帅 医院信息系统课程设计\系统实现C#源代码\Medicine\Medicine\obj\Debug\net5.0-windows\Medicine.genruntimeconfig.cache

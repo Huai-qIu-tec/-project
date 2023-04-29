@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="completeInfomation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Congrations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeptDoctorList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoctorInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExamiationCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="myhome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="guahao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="guahaoInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="jianchainfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MySchdule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tijianinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="就诊人信息.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

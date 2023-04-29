@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SunnyUI/3.1.8": {
+        "dependencies": {
+          "SunnyUI.Common": "3.1.2"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/SunnyUI.dll": {
+            "assemblyVersion": "3.1.8.0",
+            "fileVersion": "3.1.8.0"
+          }
+        }
+      },
+      "SunnyUI.Common/3.1.2": {
+        "runtime": {
+          "lib/net5.0/SunnyUI.Common.dll": {
+            "assemblyVersion": "3.1.2.0",
+            "fileVersion": "3.1.2.0"
+          }
+        }
+      },
+      "SvgNet/2.2.2": {
+        "runtime": {
+          "lib/net5.0-windows7.0/SVG.dll": {
+            "assemblyVersion": "2.2.2.0",
+            "fileVersion": "2.2.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SunnyUI/3.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZbpDokQq154NQvTj3GLBuFmkWYeHPToKVuDzPTC09Imjdj/F+ztmJP4DhoDr13IRwMYlafoFesZUYB1EZAtR4Q==",
+      "path": "sunnyui/3.1.8",
+      "hashPath": "sunnyui.3.1.8.nupkg.sha512"
+    },
+    "SunnyUI.Common/3.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+LnDUVRdSPgtVfsQEMCCCK1u/rQ3S0eRHgYGcb9qo+RBkx3xB8XvPJwSeHEZcAA1QGOkIM2tzVfW1HobVsLBpQ==",
+      "path": "sunnyui.common/3.1.2",
+      "hashPath": "sunnyui.common.3.1.2.nupkg.sha512"
+    },
+    "SvgNet/2.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-othipfYl//V7zW0+2XVMy1v7jcBVjqbhHatS3UsTSG/HFceReRzfc9vlNKyem6g7gNY6swk9/r14LxgZqnklTw==",
+      "path": "svgnet/2.2.2",
+      "hashPath": "svgnet.2.2.2.nupkg.sha512"
+    }
+  }
+}
